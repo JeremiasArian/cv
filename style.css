@@ -17,4 +17,7 @@ body {
   padding-right: 250px;
   padding-top: 100px;
   padding-bottom: 100px;
+  background-color: #333333;
+  color: white;
+  border-radius: 5px;
 }
